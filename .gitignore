@@ -1,0 +1,6 @@
+kpwn/
+initramfs/
+vmlinux
+bzImage
+
+.gdb_history
